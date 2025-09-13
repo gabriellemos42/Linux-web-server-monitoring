@@ -15,8 +15,8 @@ This project sets up a Linux server with:
 - UFW (Uncomplicated Firewall)
 
 ## 📸 Screenshots
-![Netdata Dashboard](imagens/netdata-dashboard.png)
-![Nginx Running](imagens/nginx-running.png)
+![Netdata Dashboard](images/netdata-dashboard.png)
+![Nginx Running](images/nginx-running.png)
 
 ## 🚀 Step-by-Step
 
@@ -26,7 +26,7 @@ git https://github.com/gabriellemos42/Linux-web-server-with-monitoring.git
 cd Linux-web-server-with-monitoring
 ```
 
-### 2. Run the installation script
+### 2. Grant permission and Run the installation script
 ```bash
 chmod +x scripts/install-server.sh
 ./scripts/install-server.sh
@@ -41,4 +41,4 @@ chmod +x scripts/install-server.sh
 - SSH key-based authentication (no password)
 
 ## ✍️ Author
-Gabriel Lemos – [LinkedIn](www.linkedin.com/in/gabriel-lemos-44aa60155)
+Gabriel Lemos – [LinkedIn](https://www.linkedin.com/in/gabriel-lemos-44aa60155/)
