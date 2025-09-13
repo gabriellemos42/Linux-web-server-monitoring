@@ -22,8 +22,8 @@ This project sets up a Linux server with:
 
 ### 1. Clone the repository
 ```bash
-git https://github.com/gabriellemos42/Linux-web-server-with-monitoring.git
-cd Linux-web-server-with-monitoring
+git https://github.com/gabriellemos42/Linux-web-server-monitoring.git
+cd Linux-web-server-monitoring
 ```
 
 ### 2. Grant permission and Run the installation script
