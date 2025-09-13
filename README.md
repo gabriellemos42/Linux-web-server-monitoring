@@ -15,7 +15,10 @@ This project sets up a Linux server with:
 - UFW (Uncomplicated Firewall)
 
 ## 📸 Screenshots
+Netdata Dashboard Runing
 ![Netdata Dashboard](images/netdata-dashboard.png)
+
+Nginx Running
 ![Nginx Running](images/nginx-running.png)
 
 ## 🚀 Step-by-Step
